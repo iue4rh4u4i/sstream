@@ -33,4 +33,4 @@ client.on('message', message => {//Toxic Codes
   }
 });//Toxic Codes
 
-client.login("NTEwNDQ0MzM5MTc2OTMxMzI4.Dw-C7w.4v676FTW1Jag-VPCODzzcBEidIw");
+client.login(process.env.BlueGamer);
