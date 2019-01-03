@@ -68,4 +68,4 @@ if (message.content.startsWith(adminprefix + 'setavatar')) {//Toxic Codes
 }
 });//Toxic Codes
 
-client.login(process.env.BlueGamer);
+client.login(NTEwNDQ0MzM5MTc2OTMxMzI4.Dw-C7w.4v676FTW1Jag-VPCODzzcBEidIw);
