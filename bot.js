@@ -29,7 +29,7 @@ client.on('ready', () => {
 
 
 
-const developers = ["493066933860696080"]
+const developers = ["510444339176931328"]
 const adminprefix = "-";
 client.on('message', message => {//Toxic Codes
     var argresult = message.content.split(` `).slice(1).join(' ');//Toxic Codes
